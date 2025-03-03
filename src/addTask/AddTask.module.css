@@ -1,0 +1,13 @@
+#addTaskDiv{
+
+
+}
+
+#addTaskDiv input{
+    width:260px;
+    height: 30px;
+}
+
+#addTaskDiv button{
+    height: 34px;
+}

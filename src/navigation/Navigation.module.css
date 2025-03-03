@@ -1,0 +1,15 @@
+*{
+    background-color: whitesmoke;
+    color: black;
+    padding: 2px 0px 0px 0px;
+    margin-left: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#navigationDom{
+    font-size: 18px;
+}
+
+#navigationDom.h2{
+
+}
