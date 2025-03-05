@@ -2,7 +2,7 @@ import { BrowserRouter, Route, Routes} from "react-router-dom";
 import AddTask from "./addTask/AddTask";
 import UpdateTask from "./updateTask/UpdateTask";
 import DeleteTask from "./deleteTask/DeleteTask";
-import Navigation from "./Navigation/Navigation";
+import Navigation from "./navigation/Navigation";
 import Home from "./home/Home";
 import { Provider } from "react-redux";
 import { myStore } from "./taskSlice/store";
